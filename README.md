@@ -1,5 +1,5 @@
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=ryanhja&border_radius=5.3&card_width=497&card_height=197" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=ryanhja&border_radius=5.3&card_width=700&card_height=197" alt="GitHub Streak" />
   </a>
 </p>
